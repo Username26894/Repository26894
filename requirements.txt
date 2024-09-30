@@ -1,0 +1,5 @@
+easy-ocr==1.7.1
+fuzzywuzzy==0.18.0
+aiogram==3.13.1
+pandas==2.1.4
+requsts==2.32.3
